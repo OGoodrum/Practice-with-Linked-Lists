@@ -1,5 +1,5 @@
 /*
-* Lab6Tester.java
+* LinkedListTester.java
 */
 public class Lab6Tester {
 
